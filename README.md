@@ -3,4 +3,6 @@
 
 My name is Ibrahima but most people know me as brams. Currently in 3rd year of high school in luxembourg.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibndiaye)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 Stats
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibndiaye&show_icons=false&theme=dark&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)
