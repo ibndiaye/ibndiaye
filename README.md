@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=ibndiaye&color=red)
 
 My name is Ibrahima but most people know me as brams. Currently in 3rd year of high school in luxembourg.
+
 I’m currently working learning how to code 
 
 ### 📈 Stats
