@@ -28,7 +28,9 @@ I’m currently working learning how to code
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
-<br>### 📈 Stats
+<br>
+  
+ ### 📈 Stats
 
 _NOTE: Top languages doesn't not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 <br>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibndiaye&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)
