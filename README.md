@@ -11,6 +11,12 @@ I’m currently working learning how to code
 [<img align="left" alt="Ibrahima | Instagram" height="22px" src="./Instagram.png" />][instagram]<br>
 
 
+### Languages and Tools:
+[<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)
+[<code>
+
 <br>### 📈 Stats
 
 _NOTE: Top languages doesn't not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
