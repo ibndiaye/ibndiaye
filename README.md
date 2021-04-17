@@ -5,7 +5,10 @@ My name is Ibrahima but most people know me as brams. Currently in 3rd year of h
 
 I’m currently working learning how to code
 
-[linkedin]: https://www.linkedin.com/in/ibrahima-ndiaye-278909202/
+### Connect with me:
+
+[<img align="left" alt="Ibrahima | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Ibrahima | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
 
 ### 📈 Stats
 
