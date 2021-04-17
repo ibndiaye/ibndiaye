@@ -41,7 +41,6 @@ I’m currently working learning how to code
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
 [<code>
-<br>
   
  ### 📈 Stats
 
