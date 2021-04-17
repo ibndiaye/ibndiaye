@@ -7,8 +7,8 @@ I’m currently working learning how to code
 
 ### Connect with me:
 
-[<img align="left" alt="Ibrahima | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Ibrahima | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="Ibrahima | LinkedIn" height="22px" src="LinkedIn.png" />][linkedin]
+[<img align="left" alt="Ibrahima | Instagram" height="22px" src="./Instagram.png" />][instagram]
 
 ### 📈 Stats
 
