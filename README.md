@@ -10,6 +10,11 @@ I’m currently working learning how to code
 [<img align="left" alt="Ibrahima | LinkedIn" height="22px" src="LinkedIn.png" />][linkedin]
 [<img align="left" alt="Ibrahima | Instagram" height="22px" src="./Instagram.png" />][instagram]
 
+
+
+
+
+
 ### 📈 Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibndiaye&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)
