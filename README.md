@@ -1,4 +1,4 @@
-<h2 align="center">Hello</h2>
+<h2 align="center">Ibrahima (brams)' stats</h2>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ibndiaye" alt="Profile Views Count">
   </p>
