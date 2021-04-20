@@ -36,7 +36,7 @@ I’m currently working learning how to code
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
 <br>
-### <h2 align="center">📈 Stats</h2>
+### <h2 align="center">📈 My Stats</h2>
 
 _NOTE: Top languages doesn't not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 <br>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibndiaye&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)
