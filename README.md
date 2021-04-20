@@ -14,6 +14,7 @@ I’m currently working learning how to code
 
 
 ### Languages and Tools:
+<p align="center">
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
@@ -35,6 +36,7 @@ I’m currently working learning how to code
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
+</p>
 <br>
 ### 📈 Stats
 
