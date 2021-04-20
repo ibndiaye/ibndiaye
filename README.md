@@ -11,7 +11,9 @@ I’m currently working learning how to code
 
 [<img align="left" alt="Ibrahima | LinkedIn" height="22px" src="LinkedIn.png" />][linkedin]
 [<img align="left" alt="Ibrahima | Instagram" height="22px" src="./Instagram.png" />][instagram]<br>
-
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/748450348175458324.png"/>
+</p>
 
 ### Languages and Tools:
 [<code>
@@ -46,6 +48,4 @@ _NOTE: Top languages doesn't not indicate my skill level or something like that,
 [linkedin]: https://www.linkedin.com/in/ibrahima-ndiaye-278909202/
 [instagram]: https://www.instagram.com/bench_nigga/
 <br>
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/748450348175458324.png"/>
-</p>
+
