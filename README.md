@@ -1,5 +1,7 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=ibndiaye&color=red)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ibndiaye" alt="Profile Views Count">
+  </p>
 
 My name is Ibrahima but most people know me as brams. Currently in 3rd year of high school in luxembourg.
 
