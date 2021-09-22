@@ -12,7 +12,7 @@ I’m currently working learning how to code
 [<img align="left" alt="Ibrahima | LinkedIn" height="22px" src="LinkedIn.png" />][linkedin]
 [<img align="left" alt="Ibrahima | Instagram" height="22px" src="./Instagram.png" />][instagram]<br>
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/748450348175458324.png"/>
+  
 </p>
 
 ### Languages and Tools:
