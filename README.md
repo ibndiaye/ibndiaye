@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=ibndiaye" alt="Profile Views Count">
   </p>
 
-My name is Ibrahima but most people know me as brams. Currently in 3rd year of high school in luxembourg.
+My name is Ibrahima but most people know me as brams. Currently in 4th year of high school in luxembourg.
 
 I’m currently working learning how to code
 
