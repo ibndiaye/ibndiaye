@@ -23,9 +23,9 @@
 <img alt="C#" width="18px" src="https://www.getmyos.com/upload/files/2018/09/17/windows-logo_1_926ed76111646acbbe332bc5af0cf2ce.png" /> Windows 10 <br> <br>
 <img alt="mint" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_Linux_Mint.png" /> Linux Mint
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibndiaye&show_icons=true&locale=en&layout=compact" alt="ibndiaye" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibndiaye&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ibndiaye" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibndiaye&show_icons=true&locale=en" alt="ibndiaye" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibndiaye&show_icons=true&locale=en&theme=tokyonight" alt="ibndiaye" /></p>
 
 
 
