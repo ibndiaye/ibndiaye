@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Ibrahima (brams)</h1>
-<h3 align="center">A Student, A Learner, A Developer</h3>
+<h3 align="center">A Student, A Learner, A Developer from Luxembourg 🇱🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibndiaye&label=Profile%20views&color=0e75b6&style=flat" alt="ibndiaye" /> </p>
 
 - 🌱 I’m currently learning **C#/.Net,Python,SQL and a bit of everything**
 
-- 📫 How to reach me **ibrahn1290@gmail.com**
+- 📫 How to reach me **ibrahn1290@gmail.com or brams#7173 (discord)**
 
-- ⚡ Fun? fact **I skipped a class**
+- ⚡ Fun? fact **You get smarter everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibndiaye&show_icons=true&locale=en&layout=compact" alt="ibndiaye" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibndiaye&show_icons=true&locale=en" alt="ibndiaye" /></p>
+
 
 
