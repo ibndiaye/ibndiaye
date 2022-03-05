@@ -26,6 +26,11 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibndiaye&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ibndiaye" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibndiaye&show_icons=true&locale=en&theme=tokyonight" alt="ibndiaye" /></p>
-
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ibndiaye/ibndiaye/output/github-contribution-grid-snake.svg" alt="snek"></center>
+</p>
 
 
