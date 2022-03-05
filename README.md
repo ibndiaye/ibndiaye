@@ -28,4 +28,11 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibndiaye&show_icons=true&locale=en&theme=tokyonight" alt="ibndiaye" /></p>
 
 
+<!-- SPOTIFY -->
+<h2 align="center">Now Playing On Spotify 🎧
+<br>
+<br>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xeil7e4ybquogu55qli1y7ryq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=xeil7e4ybquogu55qli1y7ryq&redirect=true)
 
+</h2>
