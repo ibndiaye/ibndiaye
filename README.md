@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ibrahima (brams)</h1>
-<h3 align="center">A Student, A Learner, A Developer from Luxembourg 🇱🇺</h3>
+<h3 align="center">Student, Learner, Developer from Luxembourg 🇱🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibndiaye&label=Profile%20views&color=0e75b6&style=flat" alt="ibndiaye" /> </p>
 
