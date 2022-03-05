@@ -29,7 +29,7 @@
 
 
 <!-- SPOTIFY -->
-<h2 align="center">Now Playing On Spotify 🎧
+<h2 align="center">Played On Spotify 🎧
 <br>
 <br>
   
