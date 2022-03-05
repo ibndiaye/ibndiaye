@@ -25,7 +25,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibndiaye&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ibndiaye" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibndiaye&show_icons=true&locale=en&theme=tokyonight" alt="ibndiaye" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibndiaye&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="ibndiaye" /></p>
 
 
 <!-- SPOTIFY -->
