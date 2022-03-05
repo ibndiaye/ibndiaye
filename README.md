@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ibrahima (brams)</h1>
 <h3 align="center">Student, Learner, Developer from Luxembourg 🇱🇺</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibndiaye&label=Profile%20views&color=0e75b6&style=flat" alt="ibndiaye" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ibndiaye&label=Profile%20views&color=0e75b6&style=flat" alt="ibndiaye" /> </p>
 
 - 🌱 I’m currently learning **C#/.Net,Python,SQL and a bit of everything**
 
