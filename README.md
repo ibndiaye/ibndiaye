@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C#/.Net,Python,SQL and a bit of everything**
 
-- 📫 How to reach me **ibrahn1290@gmail.com or brams#7173 (discord)**
+- 📫 How to reach me **brams1290@protonmail.com** or **brams#7173** (discord)
 
 - ⚡ Fun? fact **You get smarter everyday**
 
