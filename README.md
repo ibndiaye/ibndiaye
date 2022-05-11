@@ -22,7 +22,7 @@
 <h3 align="left">Operating Systems</h3>
 
 ```
-Daily Driver: Manjaro Linux x86_64
+Daily Driver: Arch Linux eOS x86_64
 Shell: Bash
 Virtualized: Windows 10 LTSC
 ```
