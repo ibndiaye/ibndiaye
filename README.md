@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibndiaye&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="ibndiaye" /> </p>
 
-- 🌱 I’m currently learning **C#/.Net, Python, SQL and a bit of everything**
+- 🌱 I’m currently learning **Web Development and Python**
 
 - 📫 How to reach me **brams1290@protonmail.com** or **brams#7173** (discord)
 
