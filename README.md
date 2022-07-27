@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development and Python**
 
-- 📫 How to reach me **brams1290@protonmail.com** or **brams#7173** (discord)
+- 📫 How to reach me **ibrahn1290@gmail.com** or **brams#7173** (discord)
 
 - ⚡ Fun? fact **Penguins evolved to fly underwater.**
 
