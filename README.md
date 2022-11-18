@@ -30,7 +30,7 @@ Virtualized: Windows / macOS
 
 
 <!-- SPOTIFY -->
-<h2 align="left">Spotify 🎧
+<h2 align="center">Spotify 🎧
 <br>
 <br>
   
@@ -40,7 +40,7 @@ Virtualized: Windows / macOS
 
 <!-- STATS -->
 
-<h2>
+<h2 align="center"> ⭐ Stats ⭐
 <br>
 <br>
 
