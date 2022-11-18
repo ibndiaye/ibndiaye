@@ -37,3 +37,12 @@ Virtualized: Windows / macOS
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wjx9ku6gkhcjggx3wuzxj34u3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=wjx9ku6gkhcjggx3wuzxj34u3&redirect=true)
 
 </h2>
+
+<!-- STATS -->
+
+<h2>
+<br>
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ibndiaye&theme=android-dark)](https://git.io/streak-stats)
+</h2>
