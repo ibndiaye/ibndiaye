@@ -23,9 +23,9 @@
 <h3 align="left">Operating Systems</h3>
 
 ```
-Daily Driver: Arch Linux eOS x86_64
-Shell: Bash/Fish
-Virtualized: Windows 10 LTSC/macOS Catalina
+Daily Driver: Linux
+Shell: Bash / Fish
+Virtualized: Windows / macOS
 ```
 
 
