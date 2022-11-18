@@ -30,7 +30,7 @@ Virtualized: Windows / macOS
 
 
 <!-- SPOTIFY -->
-<h2 align="center">Spotify 🎧
+<h2 align="center">🎧 Spotify 🎧
 <br>
 <br>
   
