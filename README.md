@@ -30,10 +30,10 @@ Virtualized: Windows 10 LTSC/macOS Catalina
 
 
 <!-- SPOTIFY -->
-<h2 align="center">Spotify 🎧
+<h2 align="left">Spotify 🎧
 <br>
 <br>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xeil7e4ybquogu55qli1y7ryq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=xeil7e4ybquogu55qli1y7ryq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wjx9ku6gkhcjggx3wuzxj34u3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=wjx9ku6gkhcjggx3wuzxj34u3&redirect=true)
 
 </h2>
