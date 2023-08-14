@@ -44,7 +44,7 @@ FLOSS/FOSS
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ibndiaye.ibndiaye&left_color=black&right_color=beige"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ibndiaye.ibndiaye&left_color=blue&right_color=yellow"  />
 </div>
 
 ###
