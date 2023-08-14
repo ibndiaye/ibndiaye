@@ -25,6 +25,8 @@ Server: Debian
 --------------
 matrix(preferred): brams@matrix.im
 discord(not as active): brams#7173
+
+FLOSS/FOSS enthusiast
 ```
 
 ###
