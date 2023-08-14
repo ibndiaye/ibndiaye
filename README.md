@@ -21,7 +21,7 @@
 Desktop: QubesOS
 Phone: GrapheneOS
 VM: Debian, Fedora, Windows
-Server: Debian
+Homelab: Debian
 --------------
 matrix(preferred): brams@matrix.im
 discord(not as active): brams#7173
