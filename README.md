@@ -16,11 +16,17 @@
 
 ###
 
-<h5 align="center">```<br>--- Setup ---<br>Desktop: QubesOS<br>Phone: GrapheneOS<br>VM: Debian, Fedora, Windows<br>Server: Debian<br>----------------<br>```<br>matrix(preferred): brams@matrix.im<br>discord(not as active): brams#7173<br>FLOSS/FOSS</h5>
-
-###
-
-<img align="left" height="170" src="https://media.giphy.com/media/l0MYPJjDKpouSaaJy/giphy.gif"  />
+```
+--- Setup ---
+Desktop: QubesOS
+Phone: GrapheneOS
+VM: Debian, Fedora, Windows
+Server: Debian
+--------------
+matrix(preferred): brams@matrix.im
+discord(not as active): brams#7173
+FLOSS/FOSS
+```
 
 ###
 
