@@ -22,10 +22,10 @@ Desktop: QubesOS
 Phone: GrapheneOS
 VM: Debian, Fedora, Windows
 Homelab: Debian
---------------
+--- Contact ---
 matrix(preferred): brams@matrix.im
 discord(not as active): brams#7173
-
+----------------
 FLOSS/FOSS enthusiast
 ```
 
