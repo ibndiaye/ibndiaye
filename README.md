@@ -44,8 +44,4 @@ FLOSS/FOSS enthusiast
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ibndiaye.ibndiaye&left_color=blue&right_color=yellow"  />
-</div>
-
 ###
