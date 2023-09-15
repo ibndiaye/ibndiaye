@@ -18,10 +18,10 @@
 
 ```
 --- Setup ---
-Desktop: QubesOS
+Desktop: GNU/Linux (debian)
 Phone: GrapheneOS
-VM: Debian, Fedora, Windows
-Homelab: Debian
+Homelab: Proxmox
+VMs: GNU/Linux, Windows
 --- Contact ---
 matrix(preferred): brams@matrix.im
 discord(not as active): brams#7173
