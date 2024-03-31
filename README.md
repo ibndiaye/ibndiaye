@@ -11,22 +11,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
 ###
 
 ```
 --- Setup ---
-Desktop: GNU/Linux (debian)
-Phone: GrapheneOS
-Homelab: Proxmox
-VMs: GNU/Linux, Windows
+OS: GNU/Linux
 --- Contact ---
 matrix(preferred): brams@matrix.im
-discord(not as active): brams#7173
+discord: brams911
 ----------------
-FLOSS/FOSS enthusiast
 ```
 
 ###
