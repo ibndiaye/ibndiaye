@@ -1,6 +1,6 @@
-<h3 align="center">I do a bit of coding</h3>
-
-###
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=800&size=22&pause=1000&color=41FF00&vCenter=true&random=false&width=435&lines=%3E+I+do+a+bit+of+coding;%3E+Selfhosting+%2B+Homelabbing" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
