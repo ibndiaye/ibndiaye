@@ -1,6 +1,6 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=800&size=22&pause=1000&color=41FF00&vCenter=true&random=false&width=435&lines=%3E+I+do+a+bit+of+coding;%3E+Selfhosting+%2B+Homelabbing" alt="Typing SVG" /></a>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=800&size=22&pause=1000&color=41FF00&center=true&vCenter=true&random=false&width=435&lines=%3E+I+do+a+bit+of+coding;%3E+Selfhosting+%2B+Homelabbing" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -29,12 +29,4 @@ discord: brams911
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ibndiaye/ibndiaye/output/github-contribution-grid-snake-dark.svg">
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture> -->
 
-###
-
-###
