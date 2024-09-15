@@ -15,8 +15,8 @@
 
 ### Socials
 
-* **Matrix**: [brams@matrix.im](matrix:brams@matrix.im) (preferred)
-* **Discord**: [.branux](https://discord.com/users/.branux)
+* **Matrix**: brams@matrix.im (preferred)
+* **Discord**: .branux
 
 ---
 
