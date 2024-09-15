@@ -13,7 +13,7 @@
 
 ---
 
-### Socials
+### > Socials
 
 * **Matrix**: brams@matrix.im (preferred)
 * **Discord**: .branux
