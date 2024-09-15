@@ -11,22 +11,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/TOR%20RELAY-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" target="https://metrics.torproject.org/rs.html#details/C43F0E1F1E7504400DBE6BB7D40EBB4F153CB112">
 </div>
 
-###
+---
 
-```
---- Setup ---
-OS: GNU/Linux
---- Contact ---
-matrix(preferred): brams@matrix.im
-discord: brams911
-----------------
-```
+##### Socials
 
-###
+* **Matrix**: [brams@matrix.im](matrix:brams@matrix.im) (preferred)
+* **Discord**: [.branux](https://discord.com/users/.branux)
+
+---
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ibndiaye/ibndiaye/output/github-contribution-grid-snake-dark.svg">
-
