@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=linux,java,py,js" />
   <br />
   <br />
-  <a href="https://metrics.torproject.org/rs.html#details/C43F0E1F1E7504400DBE6BB7D40EBB4F153CB112"  target="_blank">
+  <a href="https://metrics.torproject.org/rs.html#details/07924BA6E635BABB29F639933ACAB81D2867DC70"  target="_blank">
     <img src="https://img.shields.io/badge/TOR%20RELAY-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
   </a>
 </div>
